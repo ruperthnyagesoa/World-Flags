@@ -75,7 +75,7 @@ const Layout = ({ children, title = 'World Ranks' }) => {
 
 			<main className={styles.main}>{children}</main>
 
-			<footer className={styles.footer}>Chris Mittell &copy; 2022</footer>
+			<footer className={styles.footer}>Ruperth Nyagesoa &copy; 2023</footer>
 		</div>
 	);
 };
